@@ -1,4 +1,4 @@
-purchase_date,purchase_month,item_name,item_price,顧客名,かな,地域,メールアドレス,登録日
+purchase_data,purchase_month,item_name,item_price,顧客名,かな,地域,メールアドレス,登録日
 2019-06-13 18:02:34,201906,商品A,100.0,深井菜々美,ふかい ななみ,C市,fukai_nanami@example.com,2017-01-26 00:00:00
 2019-07-13 13:05:29,201907,商品S,1900.0,浅田賢二,あさだ けんじ,C市,asada_kenji@example.com,2018-04-07 00:00:00
 2019-05-11 19:42:07,201905,商品A,100.0,南部慶二,なんぶ けいじ,A市,nannbu_keiji@example.com,2018-06-19 00:00:00
